@@ -1,0 +1,1 @@
+import selectFile from './widgets/select-file/main';
