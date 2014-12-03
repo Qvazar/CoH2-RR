@@ -1,4 +1,4 @@
-import Wreqr from 'Backbone.Wreqr';
+import Wreqr from 'backbone.wreqr';
 
 export default {
 	reqres: new Wreqr.RequestResponse(),

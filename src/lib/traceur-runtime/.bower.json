@@ -17,5 +17,6 @@
   },
   "_source": "git://github.com/jmcriffey/bower-traceur-runtime.git",
   "_target": "~0.0.74",
-  "_originalSource": "traceur-runtime"
+  "_originalSource": "traceur-runtime",
+  "_direct": true
 }
